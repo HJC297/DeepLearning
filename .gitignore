@@ -1,0 +1,12 @@
+*.pdf
+/coursework/cw3/CW/CAE/*.png
+readme.md
+!/readme.md
+*.zip
+*.ipynb
+/coursework/cw3/*
+**/__pycache__/
+coursework/cw2/cw2_test.py
+!coursework/cw1/460cw1.ipynb
+!coursework/cw2/460cw2.ipynb
+!coursework/cw3/460cw3.ipynb
